@@ -1,5 +1,9 @@
-
-%% Initialization
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% This code implements a Machine Learning algorithm to analyze bowlers Kapil, Kumble and B S Chandrasekhar
+%% Designed and developed by Tinniam V Ganesh
+%% Date : 17 Dec 2014
+%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 %% Clear and Close Figures
 clear ; close all; clc
